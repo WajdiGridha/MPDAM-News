@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsMpdam</string>
+    <string name="category_headlines">Gros titres</string>
+    <string name="category_technology">Technologie</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_business">Business</string>
+    <string name="category_world">Mondial</string>
+    <string name="category_entertainment">Spectacle</string>
+    <string name="category_science">Science</string>
+</resources>

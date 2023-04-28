@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsMpdam</string>
+    <string name="category_science">علم</string>
+    <string name="category_entertainment">الترفيه</string>
+    <string name="category_world">العالمية</string>
+    <string name="category_business">تجارية</string>
+    <string name="category_sports">رياضية</string>
+    <string name="category_technology">تكنولوجيا</string>
+    <string name="category_headlines">عناوين</string>
+</resources>

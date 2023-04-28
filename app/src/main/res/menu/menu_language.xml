@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_languages"
+        android:checkableBehavior="single">
+        <item android:id="@+id/menu_language_english"
+            android:title="English"/>
+        <item android:id="@+id/menu_language_arabe"
+            android:title="Arabe"/>
+        <item android:id="@+id/menu_language_french"
+            android:title="Français"/>
+
+    </group>
+</menu>
